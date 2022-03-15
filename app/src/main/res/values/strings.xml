@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin Recycler View Tutorial</string>
+    <string name="Cover">cover</string>
+    <string name="cover" />
+    <string name="title_place_holder_text">title Place Holder Text</string>
+    <string name="author_placeholder">Author PlaceHolder</string>
+</resources>
